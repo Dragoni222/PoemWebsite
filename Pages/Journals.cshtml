@@ -1,0 +1,203 @@
+@page
+@using EssayWebsite.Models
+@model IndexModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vassaire's-Collected-Works</title>
+    <link rel="stylesheet" type="text/css" href="/css/site.css">
+    
+</head>
+<body>
+<div id="essays">
+    <div class="tagBox" >
+        <div class="tag-border simple-border-color">
+            <h5>Only With:</h5>
+        </div>
+        @foreach (var tag in Model.Tags)
+        {
+            var tagName = tag.Name;
+
+            <div class="@tagName tag-border tag-enable-background">
+                <button data-tag-id="@tagName" class="tag-enable">
+                    <h5>@tagName</h5>
+                </button>
+            </div>
+
+        }
+    </div>
+    <div class="tagBox">
+
+        <div class="tag-border simple-border-color">
+            <h5>Only Without:</h5>
+        </div>
+        @foreach (var tag in Model.Tags)
+        {
+            var tagName = tag.Name;
+
+            <div class="@tagName tag-border tag-disable-background">
+                <button data-tag-id="@tagName" class="tag-disable">
+                    <h5>@tagName</h5>
+                </button>
+            </div>
+
+        }
+    </div>
+
+
+    <a id="startofessays"></a>
+    @foreach (Essay essay in Model.Essays.Where(essay => essay.Type == "Journal"))
+    {
+        var hasNoTags = true;
+        string tags = "";
+        @foreach (var tagItem in Model.TagItems)
+        {
+            if (tagItem.EssayID == essay.Id)
+            {
+                tags += Model.Tags.Find(tag => tag.Id == tagItem.TagID)!.Name + " ";
+                hasNoTags = false;
+            }
+        }
+        @if (hasNoTags)
+        {
+            tags += "None";
+        }
+        <div class="essayContent @tags">
+            <div class="tagBox">
+                <div class="tag-border simple-border-color">
+                    <h5>Tags:</h5>
+                </div>
+
+                @foreach (var tagItem in Model.TagItems)
+                {
+                    if (tagItem.EssayID == essay.Id)
+                    {
+                        var tagName = Model.Tags.Find(tag => tag.Id == tagItem.TagID)!.Name;
+                        <div class="@tagName tag-border">
+                            <h5>@tagName</h5>
+                        </div>
+                    }
+                }
+                @if (hasNoTags)
+                {
+                    <div class="tag-border simple-border-color">
+                        <h5>None</h5>
+                    </div>
+                }
+            </div>
+            <a id="a-@essay.Title"></a>
+            <div class="normal-border">
+                <h2>@essay.Title</h2>
+                <h3>~With Vassaire</h3>
+                <p>@essay.Content</p>
+                <h4>@essay.DatePosted.ToString("g")</h4>
+            </div>
+        </div>
+    }
+</div>
+
+<script>
+    // Function to filter essays based on current tag button states
+    function filterEssays() {
+        document.querySelectorAll('.essayContent').forEach(function(essay) {
+            var showEssay = true; // Assume essay should be shown by default
+
+            // Check each tag button
+            document.querySelectorAll('.tag-enable').forEach(function(button) {
+                var tagId = button.getAttribute('data-tag-id');
+                var isActive = button.classList.contains('active');
+
+                // If the essay does not have the tag and the button is active, hide the essay
+                if (!essay.classList.contains(tagId) && isActive) {
+                    showEssay = false;
+                }
+            });
+
+            // Check each exclude tag button
+            document.querySelectorAll('.tag-disable').forEach(function(button) {
+                var tagId = button.getAttribute('data-tag-id');
+                var isActive = button.classList.contains('active');
+
+                // If the essay has the tag and the button is active, hide the essay
+                if (essay.classList.contains(tagId) && isActive) {
+                    showEssay = false;
+                }
+            });
+
+            // Show or hide the essay based on the calculated state
+            if (showEssay) {
+                essay.style.display = 'block';
+            } else {
+                essay.style.display = 'none';
+            }
+        });
+    }
+
+    
+       // Attach click event listeners to tag-enable buttons
+        document.querySelectorAll('.tag-enable').forEach(function(button) {
+            button.addEventListener('click', function() {
+                // Toggle active state of the button
+                this.classList.toggle('active');
+                var parentDiv = this.closest('.tag-enable-background');
+                // If this button is now active, deactivate the corresponding tag-disable button
+                if (this.classList.contains('active')) {
+                    var tagId = this.getAttribute('data-tag-id');
+                    document.querySelectorAll('.tag-disable').forEach(function(btn) {
+                        if (btn.getAttribute('data-tag-id') === tagId) {
+                            btn.classList.remove('active');
+                            btn.closest('.tag-disable-background').style.backgroundColor = '';
+                        }
+                    });
+                }
+                if (this.classList.contains('active')) {
+                    parentDiv.style.backgroundColor = 'rgb(102, 255, 90)'; // Green color
+                } else {
+                    parentDiv.style.backgroundColor = ''; // Reset to default
+                }
+                filterEssays(); // Filter essays based on current tag button states
+            });
+        });
+    
+        // Attach click event listeners to tag-disable buttons
+        document.querySelectorAll('.tag-disable').forEach(function(button) {
+            button.addEventListener('click', function() {
+                // Toggle active state of the button
+                this.classList.toggle('active');
+                 var parentDiv = this.closest('.tag-disable-background');
+                // If this button is now active, deactivate the corresponding tag-enable button
+                if (this.classList.contains('active')) {
+                    var tagId = this.getAttribute('data-tag-id');
+                    document.querySelectorAll('.tag-enable').forEach(function(btn) {
+                        if (btn.getAttribute('data-tag-id') === tagId) {
+                            btn.classList.remove('active');
+                            btn.closest('.tag-enable-background').style.backgroundColor = '';
+                        }
+                    });
+                }
+                if (this.classList.contains('active')) {
+                    parentDiv.style.backgroundColor = 'rgb(255, 89, 89)'; // Red color
+                } else {
+                    parentDiv.style.backgroundColor = ''; // Reset to default
+                }
+                filterEssays(); // Filter essays based on current tag button states
+            });
+        });
+
+    
+    
+    
+
+    // Initial filter essays on page load
+    filterEssays();
+    
+    var nsfwButton = document.querySelector('.tag-disable[data-tag-id="NSFW"]');
+            if (nsfwButton) {
+                nsfwButton.classList.add('active');
+                nsfwButton.closest('.tag-disable-background').style.backgroundColor = 'rgb(255, 89, 89)';
+                filterEssays();
+           }
+</script>
+</body>
+</html>

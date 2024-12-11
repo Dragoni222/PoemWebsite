@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-Bold.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-BoldItalic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-BoldItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-Book.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-Book.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-BookItalic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-BookItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-Italic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-Italic.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-Light.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-LightItalic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-LightItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-Regular.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-UltraLight.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-UltraLight.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\fonts\\Gravity-UltraLightItalic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Gravity-UltraLightItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\Magic_Circle.png",
+      "PackagePath": "staticwebassets\\images\\Magic_Circle.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle.png",
+      "PackagePath": "staticwebassets\\images\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle500.png",
+      "PackagePath": "staticwebassets\\images\\circle500.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle700.png",
+      "PackagePath": "staticwebassets\\images\\circle700.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle80.png",
+      "PackagePath": "staticwebassets\\images\\circle80.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle800.png",
+      "PackagePath": "staticwebassets\\images\\circle800.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circleAll.png",
+      "PackagePath": "staticwebassets\\images\\circleAll.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circleFiction.png",
+      "PackagePath": "staticwebassets\\images\\circleFiction.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circleJournals.png",
+      "PackagePath": "staticwebassets\\images\\circleJournals.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circleLGBTQ.png",
+      "PackagePath": "staticwebassets\\images\\circleLGBTQ.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circlePoems.png",
+      "PackagePath": "staticwebassets\\images\\circlePoems.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_dataall.json",
+      "PackagePath": "staticwebassets\\images\\circle_dataall.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_datafiction.json",
+      "PackagePath": "staticwebassets\\images\\circle_datafiction.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_datajournals.json",
+      "PackagePath": "staticwebassets\\images\\circle_datajournals.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_datalgbtq.json",
+      "PackagePath": "staticwebassets\\images\\circle_datalgbtq.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_datapoems.json",
+      "PackagePath": "staticwebassets\\images\\circle_datapoems.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\circle_datatiny.json",
+      "PackagePath": "staticwebassets\\images\\circle_datatiny.json"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\images\\up-arrow.png",
+      "PackagePath": "staticwebassets\\images\\up-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\joelh\\RiderProjects\\EssayWebsite\\EssayWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EssayWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EssayWebsite.props",
+      "PackagePath": "build\\EssayWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EssayWebsite.props",
+      "PackagePath": "buildMultiTargeting\\EssayWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EssayWebsite.props",
+      "PackagePath": "buildTransitive\\EssayWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

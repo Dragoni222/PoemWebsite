@@ -1,0 +1,115 @@
+[
+  {
+    "seed": 0.12042881245724857,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "offsetX": 200,
+    "offsetY": 200,
+    "width": 400,
+    "height": 400,
+    "id": 0,
+    "borderWidth": 3,
+    "margin": "0",
+    "borderSpace": "45",
+    "lineWidth": 0,
+    "tier": 2,
+    "symmetryCount": 5,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "ringText": "Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems       ",
+    "lineText": "Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems",
+    "pointList": [
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 1,
+    "parentID": 0,
+    "tier": 2,
+    "symmetryCount": 8,
+    "radius": 179,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 2,
+    "minSectionDelta": 34.412606905746365,
+    "maxSectionDelta": 77.5,
+    "sectionSize": 89.83,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": true,
+    "connectPoints": false,
+    "drawTextLines": false,
+    "textLinesOverlap": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "doubleinscribedPoints": false,
+    "linesToCenter": false,
+    "symbolRing": true,
+    "drawTextRing": false,
+    "wrapTextInLines": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 53.83,
+    "ringText": "Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     Poems     ",
+    "lineText": "Poems Poems Poems Poems Poems Poems Poems Poems",
+    "symbolText": "V A S S A I R E ",
+    "pointList": [
+      {
+        "x": 123.03657992645928,
+        "y": -123.03657992645925
+      },
+      {
+        "x": 174,
+        "y": 0
+      },
+      {
+        "x": 123.03657992645928,
+        "y": 123.03657992645925
+      },
+      {
+        "x": 1.0654427152581974e-14,
+        "y": 174
+      },
+      {
+        "x": -123.03657992645925,
+        "y": 123.03657992645928
+      },
+      {
+        "x": -174,
+        "y": 2.1308854305163947e-14
+      },
+      {
+        "x": -123.0365799264593,
+        "y": -123.03657992645925
+      },
+      {
+        "x": -3.196328145774592e-14,
+        "y": -174
+      }
+    ],
+    "color": "#e07a5f"
+  }
+]

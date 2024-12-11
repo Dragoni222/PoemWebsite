@@ -1,0 +1,514 @@
+[
+  {
+    "seed": 0.6314365677535534,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "offsetX": 300,
+    "offsetY": 300,
+    "width": 600,
+    "height": 600,
+    "id": 0,
+    "borderWidth": "5",
+    "margin": "0",
+    "borderSpace": "67",
+    "lineWidth": "13",
+    "tier": 2,
+    "symmetryCount": 3,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "ringText": "  Journals     Journals     Journals     Journals     Journals     Journals     Journals     Journals     Journals     Journals   ",
+    "pointList": [
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 1,
+    "parentID": 0,
+    "tier": 2,
+    "symmetryCount": 3,
+    "radius": 270,
+    "rotation": 1.04,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "13",
+    "minSectionDelta": 47.98327512965576,
+    "maxSectionDelta": 116.5,
+    "sectionSize": 79.66,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 79.65980375556288,
+    "ringText": "LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+",
+    "symbolText": "",
+    "pointList": [
+      {
+        "x": 201.78391908177423,
+        "y": 116.49999999999996
+      },
+      {
+        "x": -201.78391908177417,
+        "y": 116.50000000000007
+      },
+      {
+        "x": -4.280140563019999e-14,
+        "y": -233
+      }
+    ],
+    "hidden": true,
+    "color": "#f4f1de"
+  },
+  {
+    "id": 2,
+    "parentID": 1,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 3,
+    "radius": 153.34019624443712,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "13",
+    "minSectionDelta": 47.98327512965576,
+    "maxSectionDelta": 116.5,
+    "sectionSize": 86.20727694329386,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 86.20727694329386,
+    "ringText": "LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+ LGBTQIA+",
+    "symbolText": "",
+    "pointList": [
+      {
+        "x": 132.79650536897373,
+        "y": 76.67009812221853
+      },
+      {
+        "x": -132.7965053689737,
+        "y": 76.67009812221862
+      },
+      {
+        "x": -2.8168137076706536e-14,
+        "y": -153.34019624443712
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "parentID": 2,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 3,
+    "radius": 67.13291930114326,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "13",
+    "minSectionDelta": 47.98327512965576,
+    "maxSectionDelta": 116.5,
+    "sectionSize": 50.70851853784674,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 50.70851853784674,
+    "ringText": "LGBTQIA+",
+    "symbolText": "",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "",
+    "pointList": [
+      {
+        "x": 58.13881354500073,
+        "y": 33.566459650571616
+      },
+      {
+        "x": -58.138813545000716,
+        "y": 33.56645965057165
+      },
+      {
+        "x": -1.2332117210934398e-14,
+        "y": -67.13291930114326
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "parentID": 1,
+    "parentPointIndex": 0,
+    "tier": 1,
+    "symmetryCount": 10,
+    "radius": 35.05031365244766,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 3.263068629981559,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 100,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": true,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 100,
+    "ringText": "LGBTQIA+",
+    "symbolText": "⚧⚧⚧⚧⚧",
+    "pointList": [
+      {
+        "x": 20.602057453134265,
+        "y": -28.356299403002396
+      },
+      {
+        "x": 33.334829197349336,
+        "y": -10.83114257677856
+      },
+      {
+        "x": 33.334829197349336,
+        "y": 10.83114257677856
+      },
+      {
+        "x": 20.602057453134265,
+        "y": 28.356299403002396
+      },
+      {
+        "x": 2.1462127211790403e-15,
+        "y": 35.05031365244766
+      },
+      {
+        "x": -20.60205745313426,
+        "y": 28.356299403002396
+      },
+      {
+        "x": -33.334829197349336,
+        "y": 10.831142576778566
+      },
+      {
+        "x": -33.334829197349336,
+        "y": -10.831142576778557
+      },
+      {
+        "x": -20.602057453134268,
+        "y": -28.356299403002392
+      },
+      {
+        "x": -6.43863816353712e-15,
+        "y": -35.05031365244766
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 5,
+    "parentID": 4,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 23.98322469774976,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 3.263068629981559,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 16.639051952949135,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 16.639051952949135,
+    "ringText": "",
+    "symbolText": "",
+    "pointList": [
+      {
+        "x": 1.4685489679665495e-15,
+        "y": 23.98322469774976
+      },
+      {
+        "x": -4.405646903899648e-15,
+        "y": -23.98322469774976
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "parentID": 5,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 7.344172744800623,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 3.263068629981559,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 6.345845718029668,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 6.345845718029668,
+    "ringText": "",
+    "symbolText": "",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "",
+    "pointList": [
+      {
+        "x": 4.497008822152657e-16,
+        "y": 7.344172744800623
+      },
+      {
+        "x": -1.349102646645797e-15,
+        "y": -7.344172744800623
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "parentID": 1,
+    "parentPointIndex": 1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 35.05031365244766,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 17.85876993320738,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 100,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": true,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 100,
+    "ringText": "",
+    "symbolText": "⚧⚧⚧⚧⚧",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "",
+    "pointList": [
+      {
+        "x": 2.1462127211790403e-15,
+        "y": 35.05031365244766
+      },
+      {
+        "x": -6.43863816353712e-15,
+        "y": -35.05031365244766
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 8,
+    "parentID": 1,
+    "parentPointIndex": 2,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 35.05031365244766,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 5.015487459519797,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 100,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": true,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 100,
+    "ringText": "LGBTQIA+",
+    "symbolText": "⚧⚧⚧⚧⚧",
+    "pointList": [
+      {
+        "x": 2.1462127211790403e-15,
+        "y": 35.05031365244766
+      },
+      {
+        "x": -6.43863816353712e-15,
+        "y": -35.05031365244766
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 9,
+    "parentID": 8,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 26.154892604284612,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 5.015487459519797,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 14.299181795399523,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 2,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 14.299181795399523,
+    "ringText": "",
+    "symbolText": "",
+    "pointList": [
+      {
+        "x": 1.6015252754939966e-15,
+        "y": 26.154892604284612
+      },
+      {
+        "x": -4.804575826481989e-15,
+        "y": -26.154892604284612
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "parentID": 9,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 11.855710808885089,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 6.5,
+    "minSectionDelta": 5.015487459519797,
+    "maxSectionDelta": 17.52515682622383,
+    "sectionSize": 10.589043814224652,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 10.589043814224652,
+    "ringText": "",
+    "symbolText": "",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "",
+    "pointList": [
+      {
+        "x": 7.259529146858901e-16,
+        "y": 11.855710808885089
+      },
+      {
+        "x": -2.1778587440576702e-15,
+        "y": -11.855710808885089
+      }
+    ]
+  }
+]

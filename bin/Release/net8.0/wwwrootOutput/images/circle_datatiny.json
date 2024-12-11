@@ -1,0 +1,222 @@
+[
+  {
+    "seed": 0.9927473289426416,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "offsetX": 40,
+    "offsetY": 40,
+    "width": 80,
+    "height": 80,
+    "id": 0,
+    "borderWidth": 2,
+    "margin": 0,
+    "borderSpace": 7,
+    "lineWidth": 1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "ringText": "Insertus Textus",
+    "lineText": "Insertus Textus",
+    "pointList": [
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 1,
+    "parentID": 0,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 37,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 2,
+    "minSectionDelta": 1.4457961807352193,
+    "maxSectionDelta": 2.5,
+    "sectionSize": 14.94,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "drawTextLines": false,
+    "textLinesOverlap": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "doubleinscribedPoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 2.94,
+    "ringText": "Insertus Textus",
+    "lineText": "Insertus Textus",
+    "symbolText": "🜼🜡🜪🜽🜕🜫🜖🜞🜢🜫🜛🜔",
+    "pointList": [
+      {
+        "x": 4.330127018922193,
+        "y": -2.5
+      },
+      {
+        "x": 4.330127018922194,
+        "y": 2.499999999999999
+      },
+      {
+        "x": 3.061616997868383e-16,
+        "y": 5
+      },
+      {
+        "x": -4.330127018922193,
+        "y": 2.5000000000000018
+      },
+      {
+        "x": -4.330127018922195,
+        "y": -2.499999999999997
+      },
+      {
+        "x": -9.184850993605148e-16,
+        "y": -5
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 2,
+    "parentID": 1,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 26.94,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 2,
+    "minSectionDelta": 4.929780520495725,
+    "maxSectionDelta": 16.5,
+    "sectionSize": 16.47,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "drawTextLines": false,
+    "textLinesOverlap": false,
+    "connectPointsSkip": 2,
+    "inscribePoints": false,
+    "doubleinscribedPoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 7.474495105149217,
+    "ringText": "Insertus Textus",
+    "lineText": "Insertus Textus",
+    "symbolText": "🜣🜆🜬🝔🜪🝁🜼🝒🜣🝇🜱🝆",
+    "pointList": [
+      {
+        "x": 21.60179123585164,
+        "y": -12.471799984997043
+      },
+      {
+        "x": 21.601791235851643,
+        "y": 12.47179998499704
+      },
+      {
+        "x": 1.5273549931232636e-15,
+        "y": 24.943599969994086
+      },
+      {
+        "x": -21.601791235851636,
+        "y": 12.471799984997052
+      },
+      {
+        "x": -21.60179123585165,
+        "y": -12.471799984997027
+      },
+      {
+        "x": -4.582064979369791e-15,
+        "y": -24.943599969994086
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 3,
+    "parentID": 2,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 2,
+    "radius": 19.47,
+    "rotation": 2,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 2,
+    "minSectionDelta": 4.929780520495725,
+    "maxSectionDelta": 16.5,
+    "sectionSize": 22.07,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "drawTextLines": false,
+    "textLinesOverlap": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "doubleinscribedPoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 12.072443692434165,
+    "ringText": "Insertus Textus",
+    "lineText": "Insertus Textus",
+    "symbolText": "🝋🜦🜛🜄🜏🜸",
+    "pointList": [
+      {
+        "x": 1.0696741678350863e-15,
+        "y": 17.46910486484487
+      },
+      {
+        "x": -3.2090225035052586e-15,
+        "y": -17.46910486484487
+      }
+    ],
+    "color": "#f4f1de"
+  }
+]

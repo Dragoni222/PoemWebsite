@@ -1,0 +1,1635 @@
+[
+  {
+    "seed": 0.980929576093331,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "offsetX": 400,
+    "offsetY": 400,
+    "width": 800,
+    "height": 800,
+    "id": 0,
+    "borderWidth": 4,
+    "margin": "0",
+    "borderSpace": 65,
+    "lineWidth": 1,
+    "tier": 2,
+    "symmetryCount": 6,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "ringText": "     All Works             All Works             All Works             All Works             All Works             All Works             All Works             All Works             All Works             All Works       ",
+    "color": "#df795f",
+    "pointList": [
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "parentID": 0,
+    "tier": 2,
+    "symmetryCount": 6,
+    "radius": 335,
+    "rotation": 11,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "3",
+    "minSectionDelta": 29.970379360908158,
+    "maxSectionDelta": 167.5,
+    "sectionSize": 95.45566895966736,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": true,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 95.45566895966736,
+    "ringText": "All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n",
+    "symbolText": "🜰🜳🜛🜡🜏🜜🜛🜨🝋🝅🜐🝂",
+    "pointList": [
+      {
+        "x": 290.1185102677869,
+        "y": -167.5
+      },
+      {
+        "x": 290.118510267787,
+        "y": 167.49999999999994
+      },
+      {
+        "x": 2.0512833885718166e-14,
+        "y": 335
+      },
+      {
+        "x": -290.1185102677869,
+        "y": 167.5000000000001
+      },
+      {
+        "x": -290.1185102677871,
+        "y": -167.4999999999998
+      },
+      {
+        "x": -6.15385016571545e-14,
+        "y": -335
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 2,
+    "parentID": 1,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 239.54433104033262,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "3",
+    "minSectionDelta": 29.970379360908158,
+    "maxSectionDelta": 167.5,
+    "sectionSize": 72.29997761308405,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 72.29997761308405,
+    "ringText": "All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n All\n",
+    "symbolText": "🜧🜔🝇🜬🜰🜮🜮🜻🜴🜶🜝🜼",
+    "pointList": [
+      {
+        "x": 207.45147601347728,
+        "y": -119.77216552016631
+      },
+      {
+        "x": 207.4514760134773,
+        "y": 119.77216552016627
+      },
+      {
+        "x": 1.4667859913121864e-14,
+        "y": 239.54433104033262
+      },
+      {
+        "x": -207.45147601347725,
+        "y": 119.7721655201664
+      },
+      {
+        "x": -207.4514760134774,
+        "y": -119.77216552016617
+      },
+      {
+        "x": -4.4003579739365596e-14,
+        "y": -239.54433104033262
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 3,
+    "parentID": 2,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 167.24435342724857,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "3",
+    "minSectionDelta": 29.970379360908158,
+    "maxSectionDelta": 167.5,
+    "sectionSize": 92.96698420109112,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 92.96698420109112,
+    "ringText": "All\n All\n All\n All\n All\n All\n All\n All\n All\n",
+    "symbolText": "🜩🜒🜠🝘🜿🜴🜴🜛🜓🜏🝎🜼",
+    "pointList": [
+      {
+        "x": 144.8378587075003,
+        "y": -83.62217671362428
+      },
+      {
+        "x": 144.83785870750032,
+        "y": 83.62217671362426
+      },
+      {
+        "x": 1.0240763105007431e-14,
+        "y": 167.24435342724857
+      },
+      {
+        "x": -144.8378587075003,
+        "y": 83.62217671362434
+      },
+      {
+        "x": -144.83785870750037,
+        "y": -83.62217671362419
+      },
+      {
+        "x": -3.072228931502229e-14,
+        "y": -167.24435342724857
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "parentID": 3,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 74.27736922615745,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": "3",
+    "minSectionDelta": 29.970379360908158,
+    "maxSectionDelta": 167.5,
+    "sectionSize": 158.97857449762589,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 158.97857449762589,
+    "symbolText": "🜸🝑🜸🜤🜩🜑🜯🜢🜴🜻🜠🜴",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🜠",
+    "pointList": [
+      {
+        "x": 64.32608867612883,
+        "y": -37.13868461307872
+      },
+      {
+        "x": 64.32608867612885,
+        "y": 37.13868461307871
+      },
+      {
+        "x": 4.5481771235949916e-15,
+        "y": 74.27736922615745
+      },
+      {
+        "x": -64.32608867612883,
+        "y": 37.138684613078745
+      },
+      {
+        "x": -64.32608867612888,
+        "y": -37.13868461307868
+      },
+      {
+        "x": -1.3644531370784974e-14,
+        "y": -74.27736922615745
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "parentID": 1,
+    "parentPointIndex": 0,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.409484135883574,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.62692094537624,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": true,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 100,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "∀∀∀",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 6,
+    "parentID": 5,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 23.11119971731238,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.62692094537624,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 12.480161960016698,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 12.480161960016698,
+    "ringText": "",
+    "symbolText": "🜙🜴🝄🜣🜸🝅🜷🜘🜒🜘🝅🝁",
+    "pointList": [
+      {
+        "x": 20.01488606712826,
+        "y": -11.55559985865619
+      },
+      {
+        "x": 20.01488606712826,
+        "y": 11.555599858656187
+      },
+      {
+        "x": 1.4151528379130912e-15,
+        "y": 23.11119971731238
+      },
+      {
+        "x": -20.014886067128256,
+        "y": 11.555599858656198
+      },
+      {
+        "x": -20.01488606712827,
+        "y": -11.555599858656176
+      },
+      {
+        "x": -4.245458513739273e-15,
+        "y": -23.11119971731238
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "parentID": 6,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 10.631037757295683,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.62692094537624,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 12.376224770323178,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 12.376224770323178,
+    "ringText": "",
+    "symbolText": "🝚🜓🜷🜷🜤🜑🜻🜾🜧🝋🜍🜧",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🝌",
+    "pointList": [
+      {
+        "x": 9.206748766409607,
+        "y": -5.315518878647842
+      },
+      {
+        "x": 9.206748766409607,
+        "y": 5.31551887864784
+      },
+      {
+        "x": 6.509633180543408e-16,
+        "y": 10.631037757295683
+      },
+      {
+        "x": -9.206748766409605,
+        "y": 5.315518878647845
+      },
+      {
+        "x": -9.20674876640961,
+        "y": -5.315518878647835
+      },
+      {
+        "x": -1.9528899541630222e-15,
+        "y": -10.631037757295683
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "parentID": 1,
+    "parentPointIndex": 1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.409484135883574,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.311712190708302,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": true,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 10.35462054569082,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "🜢🜮🜧🜞🜡🜸🜪🜞🜳🝘🜭🝇",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 9,
+    "parentID": 8,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 23.054863590192753,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.311712190708302,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 5.161365277864932,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 5.161365277864932,
+    "ringText": "All\n",
+    "symbolText": "🜠🝂🝘🝊🜳🝁🜬🜟🜨🜩🜜🜐",
+    "pointList": [
+      {
+        "x": 19.96609754989183,
+        "y": -11.527431795096376
+      },
+      {
+        "x": 19.96609754989183,
+        "y": 11.527431795096373
+      },
+      {
+        "x": 1.4117032450254205e-15,
+        "y": 23.054863590192753
+      },
+      {
+        "x": -19.966097549891828,
+        "y": 11.527431795096383
+      },
+      {
+        "x": -19.966097549891842,
+        "y": -11.527431795096362
+      },
+      {
+        "x": -4.235109735076261e-15,
+        "y": -23.054863590192753
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "parentID": 9,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 17.89349831232782,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.311712190708302,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 10.386972986874166,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 10.386972986874166,
+    "ringText": "",
+    "symbolText": "🝃🜓🝇🜽🜢🝅🜫🝃🜲🝓🜙🜶",
+    "pointList": [
+      {
+        "x": 15.496224101049872,
+        "y": -8.94674915616391
+      },
+      {
+        "x": 15.496224101049874,
+        "y": 8.946749156163907
+      },
+      {
+        "x": 1.0956607716870418e-15,
+        "y": 17.89349831232782
+      },
+      {
+        "x": -15.49622410104987,
+        "y": 8.946749156163916
+      },
+      {
+        "x": -15.49622410104988,
+        "y": -8.9467491561639
+      },
+      {
+        "x": -3.286982315061125e-15,
+        "y": -17.89349831232782
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "parentID": 10,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 7.506525325453655,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.311712190708302,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 13.872371910012106,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 13.872371910012106,
+    "symbolText": "🝊🜯🜆🜼🜬🜨🝋🜧🜦🜕🜒🜕",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🜢",
+    "pointList": [
+      {
+        "x": 6.5008416259941155,
+        "y": -3.7532626627268275
+      },
+      {
+        "x": 6.500841625994116,
+        "y": 3.753262662726826
+      },
+      {
+        "x": 4.596421106267682e-16,
+        "y": 7.506525325453655
+      },
+      {
+        "x": -6.5008416259941155,
+        "y": 3.75326266272683
+      },
+      {
+        "x": -6.500841625994119,
+        "y": -3.753262662726823
+      },
+      {
+        "x": -1.3789263318803042e-15,
+        "y": -7.506525325453655
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "parentID": 1,
+    "parentPointIndex": 2,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.409484135883574,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 2.7861169999279705,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": true,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 13.147334545729201,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "🝀🝊🜱🜅🜿🜶🝈🜟🜏🜤🜑🜽",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 13,
+    "parentID": 12,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 20.262149590154372,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 2.7861169999279705,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 6.120575239183909,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 6.120575239183909,
+    "ringText": "",
+    "symbolText": "🜷🜗🜦🜴🜠🝃🜱🜒🜫🜙🜠🜝",
+    "pointList": [
+      {
+        "x": 17.547536280354137,
+        "y": -10.131074795077186
+      },
+      {
+        "x": 17.54753628035414,
+        "y": 10.131074795077183
+      },
+      {
+        "x": 1.2406988319713703e-15,
+        "y": 20.262149590154372
+      },
+      {
+        "x": -17.547536280354134,
+        "y": 10.131074795077193
+      },
+      {
+        "x": -17.547536280354148,
+        "y": -10.131074795077174
+      },
+      {
+        "x": -3.722096495914111e-15,
+        "y": -20.262149590154372
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "parentID": 13,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 14.141574350970464,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 2.7861169999279705,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 5.55165939767638,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 5.55165939767638,
+    "ringText": "",
+    "symbolText": "🜱🝂🜔🜇🝍🜼🜹🝈🜮🝕🜾🜓",
+    "pointList": [
+      {
+        "x": 12.246962637446856,
+        "y": -7.070787175485232
+      },
+      {
+        "x": 12.246962637446858,
+        "y": 7.070787175485229
+      },
+      {
+        "x": 8.659216881910143e-16,
+        "y": 14.141574350970464
+      },
+      {
+        "x": -12.246962637446854,
+        "y": 7.070787175485236
+      },
+      {
+        "x": -12.246962637446861,
+        "y": -7.070787175485223
+      },
+      {
+        "x": -2.597765064573043e-15,
+        "y": -14.141574350970464
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "parentID": 14,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 8.589914953294084,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 2.7861169999279705,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 13.880079675970862,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 13.880079675970862,
+    "symbolText": "🝌🜥🜐🜴🜴🝄🝌🜝🜢🜆🜖🝆",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🝃",
+    "pointList": [
+      {
+        "x": 7.4390845659004965,
+        "y": -4.294957476647042
+      },
+      {
+        "x": 7.439084565900497,
+        "y": 4.29495747664704
+      },
+      {
+        "x": 5.259805926249793e-16,
+        "y": 8.589914953294084
+      },
+      {
+        "x": -7.439084565900495,
+        "y": 4.294957476647045
+      },
+      {
+        "x": -7.4390845659005,
+        "y": -4.294957476647037
+      },
+      {
+        "x": -1.5779417778749377e-15,
+        "y": -8.589914953294084
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "parentID": 1,
+    "parentPointIndex": 3,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.409484135883574,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 4.857585676274117,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": true,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 15.06654055136132,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "🝒🝏🜸🜼🜛🜿🝔🜒🝊🝓🜔🝄",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 17,
+    "parentID": 16,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 18.342943584522253,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 4.857585676274117,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 8.585440076817864,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 8.585440076817864,
+    "ringText": "",
+    "symbolText": "🜽🜏🝀🝎🝈🜛🜚🝊🝂🝅🜭🜹",
+    "pointList": [
+      {
+        "x": 15.885455124381062,
+        "y": -9.171471792261126
+      },
+      {
+        "x": 15.885455124381064,
+        "y": 9.171471792261123
+      },
+      {
+        "x": 1.1231813573862827e-15,
+        "y": 18.342943584522253
+      },
+      {
+        "x": -15.885455124381059,
+        "y": 9.171471792261132
+      },
+      {
+        "x": -15.88545512438107,
+        "y": -9.171471792261116
+      },
+      {
+        "x": -3.369544072158848e-15,
+        "y": -18.342943584522253
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "parentID": 17,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 9.757503507704389,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 4.857585676274117,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 13.358385658319317,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 13.358385658319317,
+    "symbolText": "🜰🜺🜝🜵🜧🝌🜮🜽🝀🜓🜚🜟",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🜔",
+    "pointList": [
+      {
+        "x": 8.45024591518777,
+        "y": -4.878751753852194
+      },
+      {
+        "x": 8.45024591518777,
+        "y": 4.8787517538521925
+      },
+      {
+        "x": 5.974747719189626e-16,
+        "y": 9.757503507704389
+      },
+      {
+        "x": -8.450245915187768,
+        "y": 4.878751753852198
+      },
+      {
+        "x": -8.450245915187773,
+        "y": -4.878751753852188
+      },
+      {
+        "x": -1.7924243157568876e-15,
+        "y": -9.757503507704389
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "parentID": 1,
+    "parentPointIndex": 4,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.409484135883574,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.447740250300707,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": true,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 5.958172542577187,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "🝌🝅🝖🝇🜣🜦🜫🝋🝃🜘🜚🜖",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 20,
+    "parentID": 19,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 27.451311593306386,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.447740250300707,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 4.9877455446458665,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 4.9877455446458665,
+    "ringText": "All\n",
+    "symbolText": "🜫🝌🜻🜗🜖🝉🝘🜦🜳🝊🜾🜣",
+    "pointList": [
+      {
+        "x": 23.773533207005602,
+        "y": -13.725655796653193
+      },
+      {
+        "x": 23.773533207005606,
+        "y": 13.725655796653188
+      },
+      {
+        "x": 1.6809080437569647e-15,
+        "y": 27.451311593306386
+      },
+      {
+        "x": -23.7735332070056,
+        "y": 13.725655796653202
+      },
+      {
+        "x": -23.773533207005617,
+        "y": -13.725655796653177
+      },
+      {
+        "x": -5.042724131270894e-15,
+        "y": -27.451311593306386
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "parentID": 20,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 22.463566048660518,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.447740250300707,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 8.782339192051566,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 8.782339192051566,
+    "ringText": "",
+    "symbolText": "🜣🜖🜵🜌🜰🜎🜿🝃🜻🜶🜸🜡",
+    "pointList": [
+      {
+        "x": 19.45401885772963,
+        "y": -11.231783024330259
+      },
+      {
+        "x": 19.454018857729633,
+        "y": 11.231783024330255
+      },
+      {
+        "x": 1.375496712946363e-15,
+        "y": 22.463566048660518
+      },
+      {
+        "x": -19.45401885772963,
+        "y": 11.231783024330266
+      },
+      {
+        "x": -19.45401885772964,
+        "y": -11.231783024330245
+      },
+      {
+        "x": -4.126490138839088e-15,
+        "y": -22.463566048660518
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "parentID": 21,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 13.681226856608951,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.447740250300707,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 11.926602061255196,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 11.926602061255196,
+    "ringText": "",
+    "symbolText": "🜨🜻🜕🝐🝅🜹🜬🜖🜘🜷🜛🜐",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🜰",
+    "pointList": [
+      {
+        "x": 11.848290012761273,
+        "y": -6.840613428304476
+      },
+      {
+        "x": 11.848290012761275,
+        "y": 6.840613428304473
+      },
+      {
+        "x": 8.377335339177479e-16,
+        "y": 13.681226856608951
+      },
+      {
+        "x": -11.848290012761272,
+        "y": 6.84061342830448
+      },
+      {
+        "x": -11.848290012761279,
+        "y": -6.840613428304468
+      },
+      {
+        "x": -2.5132006017532435e-15,
+        "y": -13.681226856608951
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "parentID": 1,
+    "parentPointIndex": 5,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 33.41,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.2798470993642885,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 15,
+    "carveSpace": true,
+    "outerRing": true,
+    "connectBorder": true,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": true,
+    "wrapTextRingInCircle": true,
+    "symbolsAtPoints": false,
+    "symbolsSize": 6.11,
+    "ringText": "∀∀∀∀∀∀",
+    "symbolText": "🜨🝂🜫🝅🜤🜮🜒🜔🜰🜳🝇🜙",
+    "pointList": [
+      {
+        "x": 28.933461989008368,
+        "y": -16.704742067941787
+      },
+      {
+        "x": 28.93346198900837,
+        "y": 16.70474206794178
+      },
+      {
+        "x": 2.0457408904087047e-15,
+        "y": 33.409484135883574
+      },
+      {
+        "x": -28.933461989008364,
+        "y": 16.704742067941798
+      },
+      {
+        "x": -28.933461989008382,
+        "y": -16.704742067941766
+      },
+      {
+        "x": -6.137222671226113e-15,
+        "y": -33.409484135883574
+      }
+    ],
+    "color": "#e07a5f"
+  },
+  {
+    "id": 24,
+    "parentID": 23,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 27.295368682522067,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.2798470993642885,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 12.916865660956965,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 12.916865660956965,
+    "ringText": "",
+    "symbolText": "🝏🜅🝂🜬🜫🝂🜙🜼🜤🜑🜸🜻",
+    "pointList": [
+      {
+        "x": 23.63848268472629,
+        "y": -13.647684341261034
+      },
+      {
+        "x": 23.638482684726295,
+        "y": 13.647684341261028
+      },
+      {
+        "x": 1.671359294429878e-15,
+        "y": 27.295368682522067
+      },
+      {
+        "x": -23.63848268472629,
+        "y": 13.647684341261042
+      },
+      {
+        "x": -23.638482684726306,
+        "y": -13.647684341261018
+      },
+      {
+        "x": -5.014077883289633e-15,
+        "y": -27.295368682522067
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "parentID": 24,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 14.378503021565102,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.2798470993642885,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 5.807284750631819,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 5.807284750631819,
+    "ringText": "",
+    "symbolText": "🜵🜼🜊🝀🜞🜰🝉🜤🜽🜼🝏🜑",
+    "pointList": [
+      {
+        "x": 12.452148885066688,
+        "y": -7.189251510782551
+      },
+      {
+        "x": 12.45214888506669,
+        "y": 7.189251510782548
+      },
+      {
+        "x": 8.804293850945124e-16,
+        "y": 14.378503021565102
+      },
+      {
+        "x": -12.452148885066686,
+        "y": 7.189251510782555
+      },
+      {
+        "x": -12.452148885066695,
+        "y": -7.189251510782542
+      },
+      {
+        "x": -2.641288155283537e-15,
+        "y": -14.378503021565102
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "parentID": 25,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 8.571218270933283,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.2798470993642885,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 4.469251757336332,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 2,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 4.469251757336332,
+    "ringText": "",
+    "symbolText": "🜝🜞🝋🜆🜈🜸🝉🜧🝈🜫🜡🜧",
+    "pointList": [
+      {
+        "x": 7.422892764009554,
+        "y": -4.2856091354666415
+      },
+      {
+        "x": 7.422892764009555,
+        "y": 4.28560913546664
+      },
+      {
+        "x": 5.248357510145878e-16,
+        "y": 8.571218270933283
+      },
+      {
+        "x": -7.4228927640095534,
+        "y": 4.285609135466644
+      },
+      {
+        "x": -7.422892764009558,
+        "y": -4.285609135466636
+      },
+      {
+        "x": -1.5745072530437633e-15,
+        "y": -8.571218270933283
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "parentID": 26,
+    "parentPointIndex": -1,
+    "tier": 1,
+    "symmetryCount": 6,
+    "radius": 4.101966513596951,
+    "rotation": 0,
+    "rotationSpeed": 2,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 1.5,
+    "minSectionDelta": 3.2798470993642885,
+    "maxSectionDelta": 16.704742067941787,
+    "sectionSize": 13.118207398471064,
+    "carveSpace": false,
+    "outerRing": false,
+    "connectBorder": false,
+    "connectMidPoints": false,
+    "connectPoints": false,
+    "connectPointsSkip": 1,
+    "inscribePoints": false,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextRingInCircle": false,
+    "symbolsAtPoints": false,
+    "symbolsSize": 13.118207398471064,
+    "symbolText": "🝀🝃🜰🜌🝃🝀🜕🜊🜷🜱🜡🜧",
+    "eraseCenter": false,
+    "centerSymbol": false,
+    "centerSymbolText": "🜠",
+    "pointList": [
+      {
+        "x": 3.552407206248045,
+        "y": -2.0509832567984754
+      },
+      {
+        "x": 3.5524072062480454,
+        "y": 2.0509832567984745
+      },
+      {
+        "x": 2.5117300805430667e-16,
+        "y": 4.101966513596951
+      },
+      {
+        "x": -3.5524072062480445,
+        "y": 2.0509832567984767
+      },
+      {
+        "x": -3.5524072062480467,
+        "y": -2.0509832567984727
+      },
+      {
+        "x": -7.5351902416292e-16,
+        "y": -4.101966513596951
+      }
+    ]
+  }
+]

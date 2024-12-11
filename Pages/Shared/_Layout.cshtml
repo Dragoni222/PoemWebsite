@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Vassaire's Works</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    
+    
+</head>
+<body>
+<main role="main" class="container">
+    @RenderBody()
+    <button onclick="topFunction()" id="topOfPage">
+        <img src="/images/up-arrow.png" alt="top of page" class="raise-on-hover">
+        <img src="/images/circle80.png" alt="top of page" class="rotate-on-hover">
+    </button>
+
+    
+    <script>
+        // Get the button
+        let mybutton = document.getElementById("topOfPage");
+        
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {scrollFunction()};
+        
+        function scrollFunction() {
+          if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 1000) {
+            mybutton.style.display = "block";
+          } else {
+            mybutton.style.display = "none";
+          }
+        }
+        
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+          document.body.scrollTop = 200;
+          document.documentElement.scrollTop = 200;
+        }
+    </script>
+    
+</main>
+<footer>
+    <!-- Footer content -->
+</footer>
+</body>
+</html>

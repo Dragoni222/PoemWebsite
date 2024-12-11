@@ -1,0 +1,104 @@
+[
+  {
+    "seed": 0.12042881245724857,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "offsetX": 100,
+    "offsetY": 100,
+    "width": 200,
+    "height": 200,
+    "id": 0,
+    "borderWidth": 3,
+    "margin": "0",
+    "borderSpace": "45",
+    "lineWidth": 0,
+    "tier": 2,
+    "symmetryCount": 5,
+    "drawTextRing": true,
+    "wrapTextInLines": true,
+    "ringText": "n   Fiction   Fiction   Fiction   Fiction   Fictio",
+    "lineText": "Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems Poems",
+    "pointList": [
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      },
+      {
+        "x": null,
+        "y": null
+      }
+    ],
+    "color": "#f4f1de"
+  },
+  {
+    "id": 1,
+    "parentID": 0,
+    "parentPointIndex": -1,
+    "tier": 2,
+    "symmetryCount": 5,
+    "radius": 40,
+    "rotation": 0,
+    "rotationSpeed": 1,
+    "originRelativeToParent": true,
+    "offsetY": 0,
+    "offsetX": 0,
+    "lineWidth": 2,
+    "minSectionDelta": 6.83,
+    "maxSectionDelta": 6.83,
+    "sectionSize": 6.83,
+    "carveSpace": false,
+    "outerRing": true,
+    "connectBorder": true,
+    "connectMidPoints": true,
+    "connectPoints": true,
+    "drawTextLines": false,
+    "textLinesOverlap": false,
+    "connectPointsSkip": 2,
+    "inscribePoints": true,
+    "doubleinscribedPoints": true,
+    "linesToCenter": false,
+    "symbolRing": false,
+    "drawTextRing": false,
+    "wrapTextInLines": false,
+    "symbolsAtPoints": true,
+    "symbolsSize": 27.83,
+    "ringText": "V",
+    "lineText": "gradus",
+    "symbolText": "VVVVV",
+    "pointList": [
+      {
+        "x": 38.04226065180614,
+        "y": -12.360679774997896
+      },
+      {
+        "x": 23.511410091698927,
+        "y": 32.3606797749979
+      },
+      {
+        "x": -23.51141009169892,
+        "y": 32.3606797749979
+      },
+      {
+        "x": -38.042260651806146,
+        "y": -12.360679774997891
+      },
+      {
+        "x": -7.347880794884118e-15,
+        "y": -40
+      }
+    ],
+    "color": "#f4f1de"
+  }
+]
